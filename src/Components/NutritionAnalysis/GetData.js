@@ -104,13 +104,13 @@ let GetData = () => {
                 }
 
               </table>
-              <ul>
-                <div className="row">
-                  <b for="label" className="font-weight-bold">Ingredients : </b>
-                  {/* <p id="label">{data.ingredients[0].text}</p> */}
-                  {/* <p id="label">{data.ingredients}</p> */}
-                </div>
-              </ul>
+//               <ul>
+//                 <div className="row">
+//                   <b for="label" className="font-weight-bold">Ingredients : </b>
+//                   {/* <p id="label">{data.ingredients[0].text}</p> */}
+//                   {/* <p id="label">{data.ingredients}</p> */}
+//                 </div>
+//               </ul>
             </div>
           </div>
         </div>
