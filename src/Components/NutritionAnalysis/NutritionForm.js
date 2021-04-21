@@ -55,7 +55,7 @@ let NutritionForm = () => {
 
   return (
     <React.Fragment>
-      <pre>{JSON.stringify(details)}</pre>
+      //<pre>{JSON.stringify(details)}</pre>
       <Link to="/getData" className="btn btn-primary">Get Data</Link>
       <section className="m-5">
         <div className="container">
