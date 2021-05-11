@@ -20,8 +20,8 @@ let GetData = () => {
   let getObjVal = () => {
     let val = "";
     for (let x in data) {
-//      console.log(x)
-//      console.log(data[x])
+      console.log(x)
+      console.log(data[x])
     }
   }
 
